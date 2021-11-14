@@ -10,6 +10,9 @@
 
 - #### [1856. 子数组最小乘积的最大值](https://leetcode-cn.com/problems/maximum-subarray-min-product/)
 
+- #### [42.接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
+
+- #### [456.132-模式](https://leetcode-cn.com/problems/132-pattern/)
   
 
 # 关于我
