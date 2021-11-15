@@ -14,6 +14,12 @@
 
 - #### [456.132-模式](https://leetcode-cn.com/problems/132-pattern/)
   
+## 深度搜索
+
+> 文件夹：**dfs**
+
+- #### [690. 员工的重要性]https://leetcode-cn.com/problems/employee-importance/)
+
 
 # 关于我
 
