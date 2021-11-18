@@ -20,6 +20,8 @@
 
 - #### [690. 员工的重要性]https://leetcode-cn.com/problems/employee-importance/)
 
+- #### [1367. 二叉树中的列表](https://leetcode-cn.com/problems/linked-list-in-binary-tree/)
+
 
 ## 广度搜索
 
