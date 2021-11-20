@@ -24,6 +24,8 @@
 
 - #### [958.二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree/submissions/)
 
+- #### [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
+
 
 ## 广度搜索
 
