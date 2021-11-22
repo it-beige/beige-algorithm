@@ -14,6 +14,9 @@
 
 - #### [456.132-模式](https://leetcode-cn.com/problems/132-pattern/)
   
+- #### [1306. 跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii/submissions/)
+
+
 ## 深度搜索
 
 > 文件夹：**dfs**
