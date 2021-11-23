@@ -43,6 +43,16 @@
 - #### [279. 完全平方数](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
 
 
+## 二分思想
+
+> 文件夹：**binary**
+
+- #### [剑指 Offer 11. 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)
+
+- #### [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/submissions/)
+
+
+
 # 关于我
 
 > ### 北歌
