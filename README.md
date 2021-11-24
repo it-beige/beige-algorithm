@@ -33,6 +33,8 @@
 
 - #### [437.路径总和-iii](https://leetcode-cn.com/problems/path-sum-iii/submissions/)
 
+- #### [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/submissions/)
+
 
 ## 广度搜索
 
