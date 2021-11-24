@@ -15,3 +15,5 @@ var permutation = function (s) {
   }
   return [...set]
 };
+
+permutation("aab")

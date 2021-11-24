@@ -54,6 +54,12 @@
 - #### [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/submissions/)
 
 
+## 栈相关
+
+> 文件夹：**stack**
+
+- #### [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
+
 
 # 关于我
 
