@@ -67,6 +67,14 @@
 - #### [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
 
 
+## 哈希表相关
+
+> 文件夹：**hash-table**
+
+- #### [1487. 保证文件名唯一](https://leetcode-cn.com/problems/making-file-names-unique/)
+
+
+
 # 关于我
 
 > ### 北歌
