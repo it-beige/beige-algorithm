@@ -35,6 +35,8 @@
 
 - #### [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/submissions/)
 
+- #### [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/submissions/)
+
 
 ## 广度搜索
 
