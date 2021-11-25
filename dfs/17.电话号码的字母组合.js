@@ -10,7 +10,8 @@
  * @return {string[]}
  */
 var letterCombinations = function (digits) {
-  if (digits.length === 0) return [];
+  let ans = []
+  if (!digits.length) return ans
   const map = {
     '2': 'abc',
     '3': 'def',
@@ -22,21 +23,20 @@ var letterCombinations = function (digits) {
     '9': 'wxyz'
   };
 
-  const queue = [];
-  queue.push('');
+  const dfs = (s, idx) => {
+    if (idx === digits.length) {
+      ans.push(s)
+      return
+    }
 
-  for (let i = 0; i < digits.length; i++) {
-    const levelSize = queue.length;
-    for (let j = 0; j < levelSize; j++) {
-      const curStr = queue.shift();
-      const letters = map[digits[i]];
-      for (const l of letters) {
-        queue.push(curStr + l);
-      }
+    let letters = map[digits[idx]]
+    for (let n of letters) {
+      dfs(s + n, idx + 1)
     }
   }
 
-  return queue
-}
+  dfs('', 0)
+  return ans
+};
 // @lc code=end
 
