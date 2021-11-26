@@ -74,6 +74,13 @@
 - #### [1487. 保证文件名唯一](https://leetcode-cn.com/problems/making-file-names-unique/)
 
 
+## 字符串相关
+
+> 文件夹：**string**
+
+- #### [395. 至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters//)
+
+
 
 # 关于我
 
