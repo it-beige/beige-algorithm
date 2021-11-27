@@ -66,6 +66,8 @@
 
 - #### [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
 
+- #### [1673.找出最具竞争力的子序列](https://leetcode-cn.com/problems/find-the-most-competitive-subsequence/submissions/)
+
 
 ## 哈希表相关
 
