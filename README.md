@@ -82,6 +82,7 @@
 
 - #### [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
 
+- #### [328. 奇偶链表面试题 17.12. BiNode](https://leetcode-cn.com/problems/binode-lcci/submissions/)
 
 ## 字符串相关
 
