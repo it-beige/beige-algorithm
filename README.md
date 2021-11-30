@@ -90,6 +90,13 @@
 
 - #### [395. 至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters//)
 
+## 数组相关
+
+> 文件夹：**string**
+
+- #### [268. 丢失的数字](https://leetcode-cn.com/problems/missing-number/submissions/)
+
+
 
 
 
