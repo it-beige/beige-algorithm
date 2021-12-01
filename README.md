@@ -96,7 +96,7 @@
 
 - #### [268. 丢失的数字](https://leetcode-cn.com/problems/missing-number/submissions/)
 
-
+- #### [66. 加一](https://leetcode-cn.com/problems/plus-one/submissions/)
 
 
 
