@@ -92,7 +92,7 @@
 
 ## 数组相关
 
-> 文件夹：**string**
+> 文件夹：**array**
 
 - #### [268. 丢失的数字](https://leetcode-cn.com/problems/missing-number/submissions/)
 
@@ -101,6 +101,8 @@
 - #### [179. 最大数](https://leetcode-cn.com/problems/largest-number/)
 
 - #### [1647. 字符频次唯一的最小删除次数](https://leetcode-cn.com/problems/minimum-deletions-to-make-character-frequencies-unique/submissions//)
+
+- #### [1353. 最多可以参加的会议数目](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/)
 
 ## 双指针相关
 
