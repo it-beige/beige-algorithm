@@ -21,5 +21,3 @@ var maxEvents = function (events) {
   }
   return set.size
 };
-
-Object.prototype.__proto__
