@@ -41,6 +41,7 @@
 
 - #### [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
 
+- #### [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/submissions/)
 
 ## 广度搜索
 
