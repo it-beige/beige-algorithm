@@ -43,6 +43,8 @@
 
 - #### [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/submissions/)
 
+- #### [99.恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/submissions/)
+
 ## 广度搜索
 
 > 文件夹：**bfs**
