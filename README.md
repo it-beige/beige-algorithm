@@ -51,6 +51,8 @@
 
 - #### [124.二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum//)
 
+- #### [114.二叉树展开为链表](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum//)
+
 ## 广度搜索
 
 > 文件夹：**bfs**
@@ -93,7 +95,7 @@
 
 - #### [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
 
-- #### [328. 奇偶链表面试题 17.12. BiNode](https://leetcode-cn.com/problems/binode-lcci/submissions/)
+- #### [328. 奇偶链表面试题 17.12. BiNode](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/submissions/)
 
 ## 字符串相关
 
